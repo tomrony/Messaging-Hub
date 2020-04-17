@@ -8,17 +8,16 @@
 2. [Schema](#Schema)
 
 ## Overview
-All in one messaging hub including Facebook Twitter Instagram and WhatsApp
 ### Description
-It is a chat app using API calls to WhatsApp, Facebook messenger, Instagram and Twitter to pull DMs to display them all in one place
+All in one messaging hub using API calls to WhatsApp, Facebook messenger, Instagram and Twitter to pull DMs to display them all in one application
 ### App Evaluation
 [Evaluation of your app across the following attributes]
-- **Category:** Chat app
+- **Category:** Social Networking
 - **Mobile:** All device types
-- **Story:** 
-- **Market:**
-- **Habit:**
-- **Scope:**
+- **Story:** Link to multiple accounts including WhatsApp facebook instagram and twitter and access chats
+- **Market:** To all individuals who use multiple social apps
+- **Habit:** Convient users who have multiple social app accounts and allow them to send and reply messages.
+- **Scope:** 
 
 ## Product Spec
 
@@ -26,8 +25,9 @@ It is a chat app using API calls to WhatsApp, Facebook messenger, Instagram and 
 
 **Required Must-have Stories**
 
-* 
-* ...
+*  User logs in with the first account 
+*  User can link more accounts
+*  
 
 **Optional Nice-to-have Stories**
 
